@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.wellnessbychoice" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.wellnessbychoice" version="1.0.1">
   <name>WBCm</name>
   <description>Wellness by Choice Mobile App v1-</description>
   <author href="http://wellnessbychoice.com" email="angelina@wellnessbychoice.com">WBC Team</author>
