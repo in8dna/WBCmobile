@@ -1043,12 +1043,17 @@ text-align:center;
 width:20%;
 float:left;
 }
-.post_thumb img{
+
+.post_thumb_round img{
 display:inline-block;
 max-width:100%;
 -webkit-border-radius:100px;
 -moz-border-radius:100px;
 border-radius:100px;
+}
+.post_thumb img{
+display:inline-block;
+max-width:100%;
 }
 .post_details{
 width:70%;
