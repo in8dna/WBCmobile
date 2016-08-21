@@ -376,6 +376,18 @@ background-size: auto 34%;
 background-repeat: no-repeat;
 background-position: 50% 35px;
 }
+.share-icon a{
+background:url(images/icons/white/share.png);
+background-size: auto 34%;
+background-repeat: no-repeat;
+background-position: 50% 35px;
+}
+.subscribe-icon a{
+background:url(images/icons/white/subscribe.png);
+background-size: auto 34%;
+background-repeat: no-repeat;
+background-position: 50% 35px;
+}
 .submissions-icon a{
 background:url(images/icons/white/submissions.png);
 background-size: auto 34%;
@@ -510,6 +522,18 @@ background-position: 10px 50%;
 }
 .reviews-icon-small{
 background:url(images/icons/white/reviews.png);
+background-size: auto 50%;
+background-repeat: no-repeat;
+background-position: 10px 50%;
+}
+.share-icon-small{
+background:url(images/icons/white/share.png);
+background-size: auto 50%;
+background-repeat: no-repeat;
+background-position: 10px 50%;
+}
+.subscribe-icon-small{
+background:url(images/icons/white/subscribe.png);
 background-size: auto 50%;
 background-repeat: no-repeat;
 background-position: 10px 50%;
@@ -1505,6 +1529,12 @@ background-position: 50% 15px;
 background-position: 50% 15px;
 }
 .settings-icon a{
+background-position: 50% 15px;
+}
+.share-icon a{
+background-position: 50% 15px;
+}
+.subscribe-icon a{
 background-position: 50% 15px;
 }
 .submissions-icon a{
