@@ -25,8 +25,8 @@
           </div>
           
           <div class="buttons-row">
-                <a href="www/#tab1" class="tab-link active button">Leave a comment</a>
-                <a href="www/#tab2" class="tab-link button">Comments</a>
+                <a href="#tab1" class="tab-link active button">Leave a comment</a>
+                <a href="#tab2" class="tab-link button">Comments</a>
           </div>
           
           <div class="tabs-animated-wrap">
@@ -34,10 +34,8 @@
                       <div id="tab1" class="tab active">
                             <div class="commentform">
                             <form id="CommentForm" method="post" action="">
-                            <label>Name:</label>
-                            <input type="text" name="CommentName" id="CommentName" value="" class="form_input" />
-                            <label>Email:</label>
-                            <input type="text" name="CommentEmail" id="CommentEmail" value="" class="form_input" />
+                            <input type="hidden" name="CommentName" id="CommentName" value="" class="form_input" />
+                            <input type="hidden" name="CommentEmail" id="CommentEmail" value="" class="form_input" />
                             <label>Comment:</label>
                             <textarea name="Comment" id="Comment" class="form_textarea" rows="" cols=""></textarea>
                             <input type="submit" name="submit" class="form_submit" id="submit" value="Submit" />
