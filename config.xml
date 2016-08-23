@@ -1,6 +1,6 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.wellnessbychoice" version="1.0.4">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.wellnessbychoice" version="1.0.5">
   <name>WBCm</name>
-  <description>Wellness by Choice Mobile App v1.0.3</description>
+  <description>Wellness by Choice Mobile App v1.0.5</description>
   <author href="http://wellnessbychoice.com" email="angelina@wellnessbychoice.com">WBC Team</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>

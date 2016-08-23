@@ -304,6 +304,12 @@ background-size: auto 34%;
 background-repeat: no-repeat;
 background-position: 50% 35px;
 }
+.favorites-icon a{
+background:url(images/icons/white/favorites.png);
+background-size: auto 34%;
+background-repeat: no-repeat;
+background-position: 50% 35px;
+}
 .features-icon a{
 background:url(images/icons/white/settings.png);
 background-size: auto 34%;
@@ -372,6 +378,18 @@ background-position: 50% 35px;
 }
 .settings-icon a{
 background:url(images/icons/white/settings.png);
+background-size: auto 34%;
+background-repeat: no-repeat;
+background-position: 50% 35px;
+}
+.share-icon a{
+background:url(images/icons/white/share.png);
+background-size: auto 34%;
+background-repeat: no-repeat;
+background-position: 50% 35px;
+}
+.subscribe-icon a{
+background:url(images/icons/white/subscribe.png);
 background-size: auto 34%;
 background-repeat: no-repeat;
 background-position: 50% 35px;
@@ -460,6 +478,12 @@ background-size: auto 50%;
 background-repeat: no-repeat;
 background-position: 10px 50%;
 }
+.favorites-icon-small{
+background:url(images/icons/white/favorites.png);
+background-size: auto 50%;
+background-repeat: no-repeat;
+background-position: 10px 50%;
+}
 .heart-icon-small{
 background:url(images/icons/white/heart.png);
 background-size: auto 50%;
@@ -510,6 +534,18 @@ background-position: 10px 50%;
 }
 .reviews-icon-small{
 background:url(images/icons/white/reviews.png);
+background-size: auto 50%;
+background-repeat: no-repeat;
+background-position: 10px 50%;
+}
+.share-icon-small{
+background:url(images/icons/white/share.png);
+background-size: auto 50%;
+background-repeat: no-repeat;
+background-position: 10px 50%;
+}
+.subscribe-icon-small{
+background:url(images/icons/white/subscribe.png);
 background-size: auto 50%;
 background-repeat: no-repeat;
 background-position: 10px 50%;
@@ -858,7 +894,7 @@ max-width:90%;
 }
 ul.features_list_detailed li .feat_small_details h4{
 font-weight:700;
-font-size:18px;
+font-size:36px;
 padding:0 0 5px 0;
 margin:0px;
 }
@@ -1043,12 +1079,17 @@ text-align:center;
 width:20%;
 float:left;
 }
-.post_thumb img{
+
+.post_thumb_round img{
 display:inline-block;
 max-width:100%;
 -webkit-border-radius:100px;
 -moz-border-radius:100px;
 border-radius:100px;
+}
+.post_thumb img{
+display:inline-block;
+max-width:100%;
 }
 .post_details{
 width:70%;
@@ -1484,6 +1525,9 @@ background-position: 50% 15px;
 .video-icon a{
 background-position: 50% 15px;
 }
+.favorites-icon a{
+background-position: 50% 15px;
+}
 .heart-icon a{
 background-position: 50% 15px;
 }
@@ -1500,6 +1544,12 @@ background-position: 50% 15px;
 background-position: 50% 15px;
 }
 .settings-icon a{
+background-position: 50% 15px;
+}
+.share-icon a{
+background-position: 50% 15px;
+}
+.subscribe-icon a{
 background-position: 50% 15px;
 }
 .submissions-icon a{
