@@ -68,9 +68,30 @@ clear:both;
 float:left; 
 display:block;
 }
+h1, h1 a {
+font-size: 1.4em;
+letter-spacing: -0.0625em;
+line-height: 0.9em;  
+font-weight:900;
+color: #373737;
+}
+h2 , h2 a {
+font-size: 1.25em;
+letter-spacing: -0.0625em;
+line-height: 0.9em;
+font-weight:900;
+color: #373737;
+}
+h3, h3 a {
+font-size: 1.1em;
+letter-spacing: -0.0625em;
+line-height: 0.9em;
+font-weight:900;
+color: #373737;
+}
 a {
 text-decoration: none;
-color: #24a459;
+color: #0A301A;
 }
 p{
 padding:0px;
@@ -741,7 +762,8 @@ line-height:32px;
 padding:40px 0 30px 6px;
 }
 h2.page_subtitle{
-font-size:24px;
+font-size: 2em;
+color:#24A459;
 line-height:25px;
 font-weight:700;
 padding:0 0 10px 0;
@@ -1096,7 +1118,7 @@ width:70%;
 float:left;
 margin:0 0 0 5%;
 }
-.post_details h2{
+.post_details h2; .post_details a {
 font-size:16px;
 line-height:18px;
 font-weight:400;
@@ -1104,7 +1126,7 @@ margin:0px 0 10px 0;
 padding:0px;
 }
 .post_swipe{
-width:5%;
+width:6%;
 height:100%;
 float:right;
 -webkit-box-align: center;
@@ -1114,7 +1136,7 @@ align-items: center;
 text-align:center;
 }
 .post_swipe img{
-padding:50px 0 0 0;
+padding:20px 0 0 0;
 display:block;
 }
 .post_details span, .post_single span{

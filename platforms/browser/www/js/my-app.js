@@ -31,10 +31,10 @@ $$(document).on('pageInit', function (e) {
 
 		$(".posts li").hide();	
 		size_li = $(".posts li").size();
-		x=3;
+		x=5;
 		$('.posts li:lt('+x+')').show();
 		$('#loadMore').click(function () {
-			x= (x+1 <= size_li) ? x+1 : size_li;
+			x= (x+1 <= size_li) ? x+3 : size_li;
 			$('.posts li:lt('+x+')').show();
 			if(x == size_li){
 				$('#loadMore').hide();

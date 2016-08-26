@@ -25,43 +25,42 @@
           </div>
           
           <div class="buttons-row">
-                <a href="www/#tab1" class="tab-link active button">Leave a comment</a>
-                <a href="www/#tab2" class="tab-link button">Comments</a>
+                <a href="#tab1" class="tab-link active button">Comments</a>          
+                <a href="#tab2" class="tab-link button">Share a comment</a>
           </div>
           
           <div class="tabs-animated-wrap">
                 <div class="tabs">
+
                       <div id="tab1" class="tab active">
+                            <ul class="comments">
+                                <li class="comment_row">
+                                    <div class="comm_avatar"><img src="www/images/icons/white/user.png" alt="" title="" border="0" /></div>
+                                    <div class="comm_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam velit sapien, eleifend in by <a href="#">John Doe</a></p></div>
+                                </li>
+                                <li class="comment_row">
+                                    <div class="comm_avatar"><img src="www/images/icons/white/user.png" alt="" title="" border="0" /></div>
+                                    <div class="comm_content"><p>Consectetur adipiscing elit. Nam velit sapien, eleifend in by <a href="www/#">Sally Doe</a></p></div>
+                                </li>
+                                <li class="comment_row">
+                                    <div class="comm_avatar"><img src="www/images/icons/white/user.png" alt="" title="" border="0" /></div>
+                                    <div class="comm_content"><p>Nam velit sapien, eleifend in by <a href="www/#">Bucky Doe</a></p></div>
+                                </li>
+                                <div class="clear"></div>
+                            </ul>
+                      </div> 
+                      
+                      <div id="tab2" class="tab">
                             <div class="commentform">
                             <form id="CommentForm" method="post" action="">
-                            <label>Name:</label>
-                            <input type="text" name="CommentName" id="CommentName" value="" class="form_input" />
-                            <label>Email:</label>
-                            <input type="text" name="CommentEmail" id="CommentEmail" value="" class="form_input" />
+                            <input type="hidden" name="CommentName" id="CommentName" value="" class="form_input" />
+                            <input type="hidden" name="CommentEmail" id="CommentEmail" value="" class="form_input" />
                             <label>Comment:</label>
                             <textarea name="Comment" id="Comment" class="form_textarea" rows="" cols=""></textarea>
                             <input type="submit" name="submit" class="form_submit" id="submit" value="Submit" />
                             </form>
                             </div>
-                      </div>
-
-                      <div id="tab2" class="tab">
-                            <ul class="comments">
-                                <li class="comment_row">
-                                    <div class="comm_avatar"><img src="www/images/icons/black/user.png" alt="" title="" border="0" /></div>
-                                    <div class="comm_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam velit sapien, eleifend in by <a href="#">John Doe</a></p></div>
-                                </li>
-                                <li class="comment_row">
-                                    <div class="comm_avatar"><img src="www/images/icons/black/user.png" alt="" title="" border="0" /></div>
-                                    <div class="comm_content"><p>Consectetur adipiscing elit. Nam velit sapien, eleifend in by <a href="www/#">John Doe</a></p></div>
-                                </li>
-                                <li class="comment_row">
-                                    <div class="comm_avatar"><img src="www/images/icons/black/user.png" alt="" title="" border="0" /></div>
-                                    <div class="comm_content"><p>Nam velit sapien, eleifend in by <a href="www/#">John Doe</a></p></div>
-                                </li>
-                                <div class="clear"></div>
-                            </ul>
-                      </div> 
+                      </div>                      
                 </div>
           </div>
       
