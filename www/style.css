@@ -94,7 +94,7 @@ text-decoration: none;
 color: #0A301A;
 }
 p{
-font-size:1.15em;
+font-size:1.25em;
 padding:0px;
 margin:0px;
 line-height:20px;
@@ -103,7 +103,7 @@ blockquote{
 border-left: 5px #24a459 solid;
 padding:0 0 0 20px;
 margin:10px 0 20px 0;
-font-size:16px;
+font-size:0.9em;
 line-height:22px;
 font-weight:300;
 }
@@ -1111,7 +1111,7 @@ border-radius:100px;
 .post_thumb img{
 display:inline-block;
 max-width:30%;
-margin:7px 20px 0 0;
+margin:7px 20px 70px 0;
 float:left;
 }
 .post_details{
@@ -1195,7 +1195,7 @@ float:left;
 clear:both;
 padding:5% 5% 0 5%;
 margin:0px 0 10px 0;
-background-color:#f5f3eb;
+background-color:#EDE9D8;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px
 }
 .comm_avatar{
