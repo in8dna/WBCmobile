@@ -97,7 +97,7 @@ p{
 font-size:1.25em;
 padding:0px;
 margin:0px;
-line-height:20px;
+line-height:24px;
 }
 blockquote{
 border-left: 5px #24a459 solid;
@@ -763,14 +763,13 @@ line-height:32px;
 padding:40px 0 30px 6px;
 }
 h2.page_subtitle{
-font-size: 2em;
-color:#24A459;
-line-height:25px;
-font-weight:700;
+font-size: 1.2em;
+letter-spacing: -0.0625em;
+line-height: 0.9em;
+font-weight:900;
 padding:0 0 10px 0;
 margin:0px 0 10px 0;
 display:inline-block;
-letter-spacing:-0.5px;
 }
 #pages_maincontent h3{
 font-size:20px;
@@ -1144,13 +1143,13 @@ display:block;
 display:inline-block;
 padding:26px 0 0 0;
 }
-.post_details span.post_date{
+.post_details span.post_date, .post_single span.post_date{
 font-weight:700;
 padding:0 20px 0 0;
 }
 .post_details span.post_comments, .post_single span.post_comments{
 background:url(images/comments.png) no-repeat right;
-padding:0 20px 0 20px;
+padding:0 20px 0 0;
 }
 #loadMore{
 display:block;
