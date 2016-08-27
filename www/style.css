@@ -770,6 +770,7 @@ font-weight:900;
 padding:0 0 10px 0;
 margin:0px 0 10px 0;
 display:inline-block;
+color:#24a459;
 }
 #pages_maincontent h3{
 font-size:20px;
@@ -1096,10 +1097,18 @@ color: #fff;
 background: #24a459;
 text-align:center;
 }
+h2.post_title{
+font-size: 2em;
+letter-spacing: -0.0625em;
+line-height: 0.9em;
+font-weight:900;
+padding:0 0 10px 0;
+margin:0px 0 10px 0;
+display:inline-block;
+}
 .post_thumb{
 margin:10px 0 0 0;
 }
-
 .post_thumb_round img{
 display:inline-block;
 max-width:100%;
