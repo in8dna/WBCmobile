@@ -1097,8 +1097,7 @@ background: #24a459;
 text-align:center;
 }
 .post_thumb{
-max-width:30%;
-float:left;
+margin:10px 0 0 0;
 }
 
 .post_thumb_round img{
@@ -1110,7 +1109,9 @@ border-radius:100px;
 }
 .post_thumb img{
 display:inline-block;
-max-width:30%;
+max-width:27%;
+margin:7px 20px 0 0;
+float:left;
 }
 .post_details{
 width:100%;
@@ -1140,7 +1141,7 @@ display:block;
 }
 .post_details span, .post_single span{
 display:inline-block;
-padding:0 5px;
+padding:26px 0 0 0;
 }
 .post_details span.post_comments, .post_single span.post_comments{
 background:url(images/comments.png) no-repeat right;
