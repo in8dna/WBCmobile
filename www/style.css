@@ -1119,7 +1119,7 @@ border-radius:100px;
 .post_thumb img{
 display:inline-block;
 max-width:36%;
-margin:7px 20px 40px 0;
+margin:7px 20px 55px 0;
 float:left;
 }
 .post_details{
@@ -1154,7 +1154,7 @@ padding:26px 0 0 0;
 }
 .post_details span.post_date, .post_single span.post_date{
 font-weight:700;
-padding:0 20px 0 0;
+padding:20px 20px 0 0;
 }
 .post_details span.post_comments, .post_single span.post_comments{
 background:url(images/comments.png) no-repeat right;
