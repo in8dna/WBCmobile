@@ -1097,6 +1097,7 @@ background: #24a459;
 text-align:center;
 }
 .post_thumb{
+max-width:30%;
 float:left;
 }
 
