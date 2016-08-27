@@ -1109,7 +1109,7 @@ border-radius:100px;
 }
 .post_thumb img{
 display:inline-block;
-max-width:27%;
+max-width:30%;
 margin:7px 20px 0 0;
 float:left;
 }
@@ -1143,9 +1143,13 @@ display:block;
 display:inline-block;
 padding:26px 0 0 0;
 }
+.post_details span.post_date{
+font-weight:700;
+padding:0 20px 0 0;
+}
 .post_details span.post_comments, .post_single span.post_comments{
 background:url(images/comments.png) no-repeat right;
-padding:0 20px 0 0;
+padding:0 20px 0 20px;
 }
 #loadMore{
 display:block;
