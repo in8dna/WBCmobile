@@ -374,6 +374,12 @@ background-size: auto 34%;
 background-repeat: no-repeat;
 background-position: 50% 35px;
 }
+.metros-icon a{
+background:url(images/icons/white/metros.png);
+background-size: auto 34%;
+background-repeat: no-repeat;
+background-position: 50% 35px;
+}
 .offers-icon a{
 background:url(images/icons/white/offers.png);
 background-size: auto 34%;
@@ -538,6 +544,12 @@ background-position: 10px 50%;
 }
 .logout-icon-small{
 background:url(images/icons/white/logout.png);
+background-size: auto 50%;
+background-repeat: no-repeat;
+background-position: 10px 50%;
+}
+.metros-icon-small{
+background:url(images/icons/white/metros.png);
 background-size: auto 50%;
 background-repeat: no-repeat;
 background-position: 10px 50%;
@@ -749,7 +761,7 @@ line-height:40px;
 font-weight:900;
 }
 .minimal_intro1{
-font-size:14px;
+font-size:13px;
 color:#FFFFFF;
 font-weight:300;
 line-height:10px;
@@ -1570,6 +1582,9 @@ background-position: 50% 15px;
 background-position: 50% 15px;
 }
 .logout-icon a{
+background-position: 50% 15px;
+}
+.metros-icon a{
 background-position: 50% 15px;
 }
 .offers-icon a{
