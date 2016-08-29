@@ -63,13 +63,13 @@ $$(document).on('pageInit', function (e) {
   			if(theid == "view13") {
 				$(this).addClass("active");
 				$("#view11").removeClass("active");
-				$("#view11").children("img").attr("src","images/switch_11.png");
+				$("#view11").children("img").attr("src","www/images/switch_11.png");
 				
 				$("#view12").removeClass("active");
-				$("#view12").children("img").attr("src","mages/switch_12.png");
+				$("#view12").children("img").attr("src","www/images/switch_12.png");
 			
 				var theimg = $(this).children("img");
-				theimg.attr("src","images/switch_13_active.png");
+				theimg.attr("src","www/images/switch_13_active.png");
 			
 				// remove the list class and change to grid
 				theproducts.removeClass("photo_gallery_11");
@@ -103,7 +103,7 @@ $$(document).on('pageInit', function (e) {
 				$("#view13").children("img").attr("src","www/images/switch_13.png");
 			
 				var theimg = $(this).children("img");
-				theimg.attr("src","www.images/switch_11_active.png");
+				theimg.attr("src","www/images/switch_11_active.png");
 			
 				// remove the list class and change to grid
 				theproducts.removeClass("photo_gallery_12");
