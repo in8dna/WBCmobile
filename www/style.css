@@ -1166,12 +1166,12 @@ align-items: center;
 text-align:center;
 }
 .post_swipe img{
-padding:20px 0 0 0;
+padding:10px 0 0 0;
 display:block;
 }
 .post_details span, .post_single span{
 display:inline-block;
-padding:26px 0 0 0;
+padding:20px 0 0 0;
 }
 .post_details span.post_date, .post_single span.post_date{
 font-weight:700;
