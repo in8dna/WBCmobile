@@ -896,8 +896,8 @@ font-size: 1.5em;
 letter-spacing: -0.0625em;
 line-height: 0.9em;
 font-weight:900;
-padding:0 0 10px 0;
-margin:20px 0 10px 0;
+padding:0 0 0 0;
+margin:12px 0 10px 0;
 display:inline-block;
 }
 ul.features_list_detailed{
