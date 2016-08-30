@@ -1470,7 +1470,8 @@ display:inline-block;
 display:none;
 }
 .custom-accordion .accordion-item-content{
-padding:14px 15px;
+margin:10px 0 10px 0 ;
+padding:0 15px;
 }
 /*===============================================*/
 /* 14. MEDIA QUERIES */
