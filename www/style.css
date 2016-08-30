@@ -809,9 +809,9 @@ max-width:100%;
 margin:0 0 20px 0;
 }
 .page_single ul.simple_list{
-padding:0px 0 20px 10px;
-margin:0px;
-list-style:none;
+padding:0px 0 20px 0px;
+margin:0 0 0 30px;
+list-style-type: square;
 }
 .page_single ul.simple_list li{
 margin:0 0 10px 0;
