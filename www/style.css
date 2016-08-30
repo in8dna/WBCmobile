@@ -181,11 +181,13 @@ position: relative;
 overflow: hidden;
 text-overflow: ellipsis;
 font-size: 14px;
+font-weight:700;
 font-family: inherit;
 cursor: pointer;
 }
 .button.active {
 background: #24a459;
+font-weight:700;
 color: #fff;
 }
 /*===============================================*/
@@ -880,7 +882,7 @@ clear:both;
 }
 ul.features_list li img{
 display:inline-block;
-max-width:15%;
+max-width:12%;
 float:left;
 margin:0px;
 }
@@ -897,7 +899,7 @@ letter-spacing: -0.0625em;
 line-height: 0.9em;
 font-weight:900;
 padding:0 0 0 0;
-margin:12px 0 10px 0;
+margin:12px 0 10px 10px;
 display:inline-block;
 }
 ul.features_list_detailed{
