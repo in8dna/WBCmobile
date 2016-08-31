@@ -126,7 +126,7 @@ line-height:22px;
 max-width:100%; 
 padding:0; 
 display: block; 
-margin:0;
+margin:6px 0 0 0;
 }
 #mobile_wrap{
 max-width:800px;
@@ -1155,14 +1155,13 @@ float:left;
 margin:0 5% 0 0;
 }
 .post_details .post_details a {
-font-size:1.7em;
 line-height:18px;
 font-weight:400;
 margin:0 0 10px 0;
 padding:0;
 }
 .post_swipe{
-width:12%;
+width:10%;
 height:100%;
 float:right;
 -webkit-box-align: center;
@@ -1172,7 +1171,7 @@ align-items: center;
 text-align:center;
 }
 .post_swipe img{
-padding:10px 0 0 0;
+padding:4px 0 0 0;
 display:block;
 }
 .post_details span, .post_single span{
