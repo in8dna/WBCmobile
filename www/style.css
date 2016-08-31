@@ -811,12 +811,11 @@ margin:0 0 20px 0;
 .page_single ul.simple_list{
 padding:0px 0 20px 0px;
 margin:0 0 0 30px;
-list-style-type: square;
 }
-.page_single ul.simple_list li{
-margin:0 0 10px 0;
+.page_single ul.simple_list li .accordion-item-content ul.simple_list li {
+margin:0 0 10px 30px;
 padding:0 0 0 20px;
-background:url(images/bullet.png) no-repeat left;
+background:url(www/images/bullet.png) no-repeat left;
 }
 /*===============================================*/
 /* 7. HOME SWIPER */
@@ -1118,7 +1117,7 @@ color: #fff;
 background: #24a459;
 text-align:center;
 }
-h2.post_title{
+h2 .post_title{
 font-size: 2em;
 letter-spacing: -0.0625em;
 line-height: 0.9em;
@@ -1127,7 +1126,7 @@ padding:0 0 10px 0;
 margin:0px 0 10px 0;
 display:inline-block;
 }
-h3.post_title{
+h3 .post_title{
 font-size: 1.5em;
 letter-spacing: -0.0625em;
 line-height: 0.9em;
