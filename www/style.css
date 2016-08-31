@@ -1470,7 +1470,6 @@ padding:0;
 padding:0;
 height:44px;
 line-height:44px;
-font-size:1.2em;
 cursor:pointer;
 }
 .custom-accordion .accordion-item-toggle:active{
@@ -1479,7 +1478,7 @@ background:rgba(0,0,0,0.15);
 .custom-accordion .accordion-item-toggle span{
 display:inline-block;
 margin-left:15px;
-font-size: 0.85em;
+font-size: 1.0em;
 letter-spacing: -0.025em;
 line-height: 0.9em;
 font-weight:900;
@@ -1499,7 +1498,7 @@ text-align:center;
 display:none;
 }
 .custom-accordion .accordion-item-expanded .icon-minus{
-display:inline-block;
+display:none;
 }
 .custom-accordion .accordion-item-expanded .icon-plus{
 display:none;
