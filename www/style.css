@@ -833,7 +833,7 @@ margin:0 0 0 30px;
 .page_single ul.simple_list li {
 margin:0 0 10px 30px;
 padding:0 0 0 20px;
-background:url(www/images/bullet.png) no-repeat left;
+background:url(images/bullet.png) no-repeat left;
 }
 /*===============================================*/
 /* 7. HOME SWIPER */
@@ -1200,7 +1200,8 @@ padding:20px 0 0 0;
 }
 .post_details span.post_date, .post_single span.post_date{
 padding:20px 20px 0 0;
-font-size: 0.9em;
+font-size: 0.75em;
+color:#CCCCCC;
 font-weight:700;
 }
 .post_details span.post_comments, .post_single span.post_comments{
@@ -1482,7 +1483,7 @@ font-size: 0.85em;
 letter-spacing: -0.025em;
 line-height: 0.9em;
 font-weight:900;
-color: #777777;
+color: #209461;
 }
 .custom-accordion .icon-plus,.custom-accordion .icon-minus{
 display:inline-block;
