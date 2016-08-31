@@ -1492,7 +1492,7 @@ border:1px solid #CACACA;
 color:#444444;
 font-weight:900;
 border-radius:100%;
-line-height:26px;
+line-height:20px;
 text-align:center;
 }
 .custom-accordion .icon-minus{
@@ -1501,9 +1501,10 @@ width:20px;
 height:20px;
 border:1px solid #CACACA;
 color:#444444;
+font-size: 1.1em;
 font-weight:900;
 border-radius:100%;
-line-height:10px;
+line-height:20px;
 text-align:center;
 }
 .custom-accordion .icon-minus{
