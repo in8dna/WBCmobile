@@ -97,8 +97,8 @@ font-weight:900;
 color: #353C37;
 }
 h5, h5 a {
-font-size: 0.85em;
-line-height: 1.2em;
+font-size: 0.95em;
+line-height: 1.4em;
 font-weight:300;
 font-style: italic;
 color: #353C37;
@@ -1250,11 +1250,11 @@ float:left;
 display:inline-block;
 max-width:100%;
 }
-.comm_content h5{
+.comm_content{
 width:80%;
 float:left;
 display:inline-block;
-padding:0 0 0 5%;
+padding:0 0 5% 5%;
 }
 
 /*===============================================*/
@@ -1434,10 +1434,9 @@ overflow: hidden;
 height: auto;
 margin:20px 0 0 0;
 }
-.tab h4{
+.tab{
 padding:0 0 10px 0;
 margin:0;
-font-size:16px;
 }
 .custom-accordion{
 padding:0;
@@ -1474,10 +1473,16 @@ display:inline-block;
 .custom-accordion .accordion-item-expanded .icon-plus{
 display:none;
 }
-.custom-accordion .accordion-item-content{
-margin:10px 0 10px 0 ;
+.custom-accordion .accordion-item-content, .custom-accordion .accordion-item-content ul{
+margin:14px 0 10px 20px ;
 padding:0 15px;
 }
+.custom-accordion .accordion-item-content ul.simple_list li{
+margin:0 0 10px 30px;
+padding:0 0 0 20px;
+background:url(www/images/bullet.png) no-repeat left;    
+}
+
 /*===============================================*/
 /* 14. MEDIA QUERIES */
 /*===============================================*/	
