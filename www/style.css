@@ -1478,11 +1478,11 @@ background:rgba(0,0,0,0.15);
 .custom-accordion .accordion-item-toggle span{
 display:inline-block;
 margin-left:15px;
-font-size: 1.0em;
+font-size: 0.85em;
 letter-spacing: -0.025em;
 line-height: 0.9em;
 font-weight:900;
-color: #353C37;
+color: #555555;
 }
 .custom-accordion .icon-plus,.custom-accordion .icon-minus{
 display:inline-block;
