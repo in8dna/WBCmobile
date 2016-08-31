@@ -908,7 +908,7 @@ clear:both;
 ul.features_list li img{
 display:inline-block;
 max-width:12%;
-margin:5px 0 5px 0;
+margin:5px 0 0 0;
 float:left;
 }
 ul.features_list li span{
@@ -1200,7 +1200,7 @@ padding:20px 0 0 0;
 }
 .post_details span.post_date, .post_single span.post_date{
 padding:20px 20px 0 0;
-font-size: 0.85em;
+font-size: 0.9em;
 font-weight:700;
 }
 .post_details span.post_comments, .post_single span.post_comments{
@@ -1478,6 +1478,11 @@ background:rgba(0,0,0,0.15);
 .custom-accordion .accordion-item-toggle span{
 display:inline-block;
 margin-left:15px;
+font-size: 1.0em;
+letter-spacing: -0.025em;
+line-height: 0.9em;
+font-weight:900;
+color: #353C37;
 }
 .custom-accordion .icon-plus,.custom-accordion .icon-minus{
 display:inline-block;
