@@ -57,7 +57,6 @@ line-height: 1.4;
 width: 100%;
 -webkit-text-size-adjust: 100%;
 overflow: hidden;
-font-weight:300;
 }
 .clear{ 
 clear:both; 
@@ -110,6 +109,7 @@ color: #0A301A;
 p{
 padding:0;
 margin:0;
+font-size:0.925em;
 font-weight:300;
 line-height:1.45em;
 color: #353C37;
@@ -1150,6 +1150,7 @@ display:inline-block;
 }
 .post_thumb{
 margin:10px 0 0 0;
+color: #232323;
 }
 .post_thumb_round img{
 display:inline-block;
@@ -1249,7 +1250,7 @@ background-color:#E6F3D5;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px
 }
 .comm_avatar{
-width:15%;
+width:18%;
 display:inline-block;
 float:left;
 }
@@ -1265,7 +1266,7 @@ padding:0 0 5% 5%;
 }
 .comm_content p{
 font-family: 'Times New Roman', Times, serif;
-font-size: 0.85em;
+font-size: 0.80em;
 line-height: 1.4em;
 font-weight:300;
 font-style: italic;
@@ -1476,12 +1477,12 @@ margin-left:15px;
 }
 .custom-accordion .icon-plus,.custom-accordion .icon-minus{
 display:inline-block;
-width:22px;
-height:22px;
+width:20px;
+height:20px;
 border:1px solid #CCC;
 color:#CCC;
 border-radius:100%;
-line-height:20px;
+line-height:22px;
 text-align:center;
 }
 .custom-accordion .icon-minus{
