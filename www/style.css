@@ -1180,6 +1180,8 @@ padding:20px 0 0 0;
 }
 .post_details span.post_date, .post_single span.post_date{
 padding:20px 20px 0 0;
+font-size: 0.9em;
+font-weight:700;
 }
 .post_details span.post_comments, .post_single span.post_comments{
 background:url(images/comments.png) no-repeat right;
