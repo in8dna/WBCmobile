@@ -894,14 +894,13 @@ clear:both;
 ul.features_list li{
 border:1px #D8D8D8 solid;
 -webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;
-padding:5px 2%;
+padding:0 0 10px 2%;
 margin:0 10px 15px 0;
 display:block;
 width:94%;
 float:left;
 font-size: 1.1em;
 letter-spacing: -0.0425em;
-line-height: 0.9em;
 font-weight:900;
 color: #353C37;
 clear:both;
@@ -1255,7 +1254,7 @@ background-color:#E6F3D5;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px
 }
 .comm_avatar{
-width:18%;
+width:15%;
 display:inline-block;
 float:left;
 }
