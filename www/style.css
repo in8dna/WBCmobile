@@ -717,7 +717,7 @@ float:left;
 line-height:50px;
 text-align:center;
 color:#FFFFFF;
-font-size:0.8em;
+font-size:0.85em;
 font-weight:700;
 }
 /* 5.1 FOOTER TOOLBAR */
@@ -879,6 +879,10 @@ font-size:20px;
 /*===============================================*/
 /* 8. LISTS */
 /*===============================================*/	
+.features_list{
+margin:12px 0 10px 10px;
+display:inline-block;
+}
 ul.features_list{
 padding:10px 0 30px 0;
 width:100%;
@@ -893,8 +897,13 @@ border:1px #D8D8D8 solid;
 padding:5px 2%;
 margin:0 10px 15px 0;
 display:block;
-width:92%;
+width:94%;
 float:left;
+font-size: 1.1em;
+letter-spacing: -0.0425em;
+line-height: 0.9em;
+font-weight:900;
+color: #353C37;
 clear:both;
 }
 ul.features_list li img{
@@ -909,10 +918,6 @@ max-width:90%;
 padding:5px 0 0 10%;
 font-weight:700;
 float:left;
-}
-.features_list{
-margin:12px 0 10px 10px;
-display:inline-block;
 }
 ul.features_list_detailed{
 padding:10px 0 30px 0;
