@@ -710,7 +710,8 @@ float:left;
 line-height:50px;
 text-align:center;
 color:#FFFFFF;
-font-size:18px;
+font-size:0.8em;
+font-weight:700;
 }
 /* 5.1 FOOTER TOOLBAR */
 ul.toolbar_icons{
