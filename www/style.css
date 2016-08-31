@@ -1498,10 +1498,10 @@ text-align:center;
 display:none;
 }
 .custom-accordion .accordion-item-expanded .icon-minus{
-display:none;
+display:inline-block;
 }
 .custom-accordion .accordion-item-expanded .icon-plus{
-display:none;
+display:inline-block;
 }
 .custom-accordion .accordion-item-content, .custom-accordion .accordion-item-content ul{
 margin:14px 0 10px 20px ;
