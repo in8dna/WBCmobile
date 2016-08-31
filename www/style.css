@@ -1486,14 +1486,14 @@ color: #209461;
 }
 .custom-accordion .icon-plus{
 display:inline-block;
-width:18px;
-height:18px;
-font-size: 0.75em;
+width:16px;
+height:16px;
+font-size: 0.70em;
 border:1px solid #CACACA;
 color:#444444;
-font-weight:900;
+font-weight:700;
 border-radius:100%;
-line-height:24px;
+line-height:16px;
 text-align:center;
 }
 .custom-accordion .icon-minus{
