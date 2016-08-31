@@ -125,7 +125,7 @@ font-family: 'Times New Roman', Times, serif;
 color:#209461;
 font-style: italic;
 font-size:0.85em;
-line-height:1.2em;
+line-height:1.3em;
 font-weight:300;
 }
 blockquote span{
@@ -908,6 +908,7 @@ clear:both;
 ul.features_list li img{
 display:inline-block;
 max-width:12%;
+margin:5px 0 5px 0;
 float:left;
 margin:0;
 }
@@ -1481,12 +1482,12 @@ margin-left:15px;
 }
 .custom-accordion .icon-plus,.custom-accordion .icon-minus{
 display:inline-block;
-width:20px;
-height:20px;
+width:18px;
+height:18px;
 border:1px solid #CCC;
 color:#CCC;
 border-radius:100%;
-line-height:22px;
+line-height:18px;
 text-align:center;
 }
 .custom-accordion .icon-minus{
