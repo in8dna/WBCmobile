@@ -110,12 +110,13 @@ color: #0A301A;
 p{
 padding:0;
 margin:0;
-line-height:1.6em;
+font-weight:300;
+line-height:1.45em;
 color: #353C37;
 font-family: 'Times New Roman', Times, serif;
 }
 blockquote{
-border-left: 7px #8DC641 solid;
+border-left: 7px #209461 solid;
 padding:0 0 0 20px;
 margin:10px 0 20px 0;
 }
@@ -1244,7 +1245,7 @@ float:left;
 clear:both;
 padding:5% 5% 0 5%;
 margin:0px 0 10px 0;
-background-color:#D9ECC0;
+background-color:#E6F3D5;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px
 }
 .comm_avatar{
@@ -1272,7 +1273,7 @@ color: #353C37;
 }
 .comm_content a{
 text-decoration:underline;
-font-size: 0.85em;
+font-size: 1.0em;
 }
 
 /*===============================================*/
