@@ -1469,7 +1469,7 @@ padding:0;
 .custom-accordion .accordion-item-toggle{
 padding:0;
 height:38px;
-line-height:44px;
+line-height:38px;
 cursor:pointer;
 }
 .custom-accordion .accordion-item-toggle:active{
@@ -1486,10 +1486,12 @@ color: #209461;
 }
 .custom-accordion .icon-plus,.custom-accordion .icon-minus{
 display:inline-block;
-width:22px;
-height:22px;
+padding-top:3px;
+width:20px;
+height:20px;
 border:1px solid #CACACA;
 color:#444444;
+font-weight:900;
 border-radius:100%;
 line-height:22px;
 text-align:center;
