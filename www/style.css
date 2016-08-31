@@ -115,9 +115,11 @@ color: #353C37;
 }
 blockquote{
 border-left: 7px #8DC641 solid;
-font-family: 'Times New Roman', Times, serif;
 padding:0 0 0 20px;
 margin:10px 0 20px 0;
+}
+blockquote p{
+font-family: 'Times New Roman', Times, serif;
 font-size:0.9em;
 line-height:20px;
 font-weight:300;
@@ -1447,7 +1449,7 @@ padding:0;
 padding:0;
 height:44px;
 line-height:44px;
-font-size:17px;
+font-size:22px;
 cursor:pointer;
 }
 .custom-accordion .accordion-item-toggle:active{
@@ -1463,7 +1465,7 @@ width:22px;
 height:22px;
 border:1px solid #000;
 border-radius:100%;
-line-height:20px;
+line-height:22px;
 text-align:center;
 }
 .custom-accordion .icon-minus{
@@ -1479,9 +1481,10 @@ display:none;
 margin:14px 0 10px 20px ;
 padding:0 15px;
 }
-.custom-accordion .accordion-item-content ul.simple_list li{
-margin:0 0 10px 30px;
-padding:0 0 0 20px;
+.custom-accordion .accordion-item-content li{
+margin:0 0 10px 10px;
+padding:0 0 0 10px;
+list-style-type: circle;
 background:url(www/images/bullet.png) no-repeat left;    
 }
 
