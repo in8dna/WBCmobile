@@ -112,6 +112,7 @@ padding:0;
 margin:0;
 line-height:1.6em;
 color: #353C37;
+font-family: 'Times New Roman', Times, serif;
 }
 blockquote{
 border-left: 7px #8DC641 solid;
@@ -131,9 +132,8 @@ display:block;
 font-family: 'Source Sans Pro', sans-serif;
 color:#209461;
 font-weight:700;
-font-size:1.0em;
+font-size:0.8em;
 text-transform:uppercase;
-line-height:22px;
 }
 .videocontainer{
 max-width:100%; 
@@ -1263,19 +1263,16 @@ display:inline-block;
 padding:0 0 5% 5%;
 }
 .comm_content p{
-font-size: 0.75em;
+font-family: 'Times New Roman', Times, serif;
+font-size: 0.85em;
 line-height: 1.4em;
 font-weight:300;
 font-style: italic;
 color: #353C37;
 }
 .comm_content a{
-font-size: 0.75em;
-line-height: 1.4em;
-font-weight:300;
-font-style: italic;
-color: #353C37;
 text-decoration:underline;
+font-size: 0.85em;
 }
 
 /*===============================================*/
@@ -1480,10 +1477,10 @@ margin-left:15px;
 display:inline-block;
 width:22px;
 height:22px;
-border:1px solid #DDDDDD;
-color:#DDDDDD;
+border:1px solid #CCC;
+color:#CCC;
 border-radius:100%;
-line-height:22px;
+line-height:20px;
 text-align:center;
 }
 .custom-accordion .icon-minus{
