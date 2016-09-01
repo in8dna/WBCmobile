@@ -1492,10 +1492,10 @@ display:inline-block;
 .custom-accordion .icon-minus{
 background:url(images/icons/white/minus.png) no-repeat center;
 margin-left:15px; 
-display:none;
+display:inline-block;
 }
 .custom-accordion .accordion-item-expanded .icon-minus{
-display:inline-block;
+display:none;
 }
 .custom-accordion .accordion-item-expanded .icon-plus{
 display:none;
