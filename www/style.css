@@ -1477,7 +1477,7 @@ background:rgba(0,0,0,0.15);
 }
 .custom-accordion .accordion-item-toggle span{
 display:inline-block;
-margin-left:15px;
+margin-left:10px;
 font-size: 1.0em;
 letter-spacing: -0.025em;
 line-height: 0.9em;
@@ -1486,10 +1486,12 @@ color: #209461;
 }
 .custom-accordion .icon-plus{
 background:url(images/icons/white/plus.png) no-repeat center; 
+margin-left:15px;
 display:inline-block;
 }
 .custom-accordion .icon-minus{
-background:url(www/images/icons/white/minus.png) no-repeat center;    
+background:url(images/icons/white/minus.png) no-repeat center;
+margin-left:15px; 
 display:inline-block;
 }
 .custom-accordion .icon-minus{
