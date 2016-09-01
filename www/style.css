@@ -1488,12 +1488,12 @@ color: #209461;
 display:inline-block;
 width:16px;
 height:16px;
-font-size: 0.5em;
+font-size: 6px;
 border:1px solid #CACACA;
 color:#444444;
 font-weight:700;
 border-radius:100%;
-line-height:24px;
+line-height:16px;
 text-align:center;
 }
 .custom-accordion .icon-minus{
