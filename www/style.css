@@ -239,12 +239,17 @@ padding: 0 15px;
 }
 /* 4.05 INDEX NAVIGATION */
 .list-navindex{
-padding:0 0 0 40px;
+padding:200px 0 0 40px;
+width:100%;
 }
 .list-navindex ul{
+width:100%;
 list-style:none;
-padding:0;
+padding:0px;
+margin:0;
 display:block;
+float:left;
+text-align:center;
 }
 .list-navindex ul li{
 display:block;
@@ -255,7 +260,7 @@ margin:0;
 color:#FFFFFF;
 font-size:0.85em;
 font-weight:300;
-width:20%;
+width:22%;
 text-align:center;
 display:inline-block;
 list-style:none;
