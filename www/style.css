@@ -244,7 +244,7 @@ margin:5% 0 0 0;
 width:100%;
 }
 .list-navindex ul{
-width:40%;
+width:36%;
 list-style:none;
 padding:0;
 margin:0;
@@ -261,11 +261,11 @@ margin:0;
 color:#FFFFFF;
 font-size:15px;
 font-weight:300;
-width:70%;
+width:100%;
 display:inline-block;
 float:left;
 list-style:none;
-padding:16.5% 0 3% 0;
+padding:30% 0 30% 0;
 margin:2% 0 2% 8%;
 height:auto;
 background-color:rgba(70,65,64,0.7);
@@ -318,7 +318,7 @@ margin:0;
 display:block;
 height:45px;
 line-height:45px;
-border-bottom:1px #12713e solid;
+border-bottom:1px #444444 solid;
 }
 .list-nav-small ul li a{
 color:#FFFFFF;
