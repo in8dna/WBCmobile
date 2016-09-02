@@ -477,9 +477,9 @@ background-position: 50% 35px;
 }
 .user-icon a{
 background:url(images/photos/user12icon.png);
-background-size: auto 40%;
+background-size: auto 60%;
 background-repeat: no-repeat;
-background-position: 50% 30px;
+background-position: 50% 20px;
 }
 .video-icon a{
 background:url(images/icons/white/video.png);
@@ -717,7 +717,7 @@ text-align:center;
 }
 .navbar_home_link a{
 float:left;
-width:30%;
+width:100%;
 padding:5px 0 0 3%;
 }
 .navbar_home_link img{
