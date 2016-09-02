@@ -239,13 +239,13 @@ padding: 0 15px;
 }
 /* 4.05 INDEX NAVIGATION */
 .list-navindex{
-padding:200px 0 0 40px;
+padding:100px 0 0 40px;
 width:100%;
 }
 .list-navindex ul{
 width:100%;
 list-style:none;
-padding:0px;
+padding:0;
 margin:0;
 display:block;
 float:left;
@@ -258,14 +258,14 @@ margin:0;
 }
 .list-navindex ul li a{
 color:#FFFFFF;
-font-size:0.85em;
+font-size:15px;
 font-weight:300;
 width:22%;
-text-align:center;
 display:inline-block;
+float:left;
 list-style:none;
-padding:13% 0 3% 0;
-margin:10px 0 6px 0;
+padding:16.5% 0 3% 0;
+margin:2% 0 2% 8%;
 height:auto;
 background-color:rgba(18,123,66,0.7);
 }
