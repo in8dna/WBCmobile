@@ -475,6 +475,12 @@ background-size: auto 34%;
 background-repeat: no-repeat;
 background-position: 50% 35px;
 }
+.user-icon a{
+background:url(images/photos/photo12.jpg);
+background-size: auto 34%;
+background-repeat: no-repeat;
+background-position: 50% 35px;
+}
 .video-icon a{
 background:url(images/icons/white/video.png);
 background-size: auto 34%;
@@ -1459,14 +1465,6 @@ max-width:100%;
 border-radius:200px;
 border:2px #ddd solid;
 }
-.user_icon{
-width:60px;
-margin:0 0 0 0;
-display:block;
--webkit-border-radius:60px;
--moz-border-radius:60px;
-border-radius:60px;
-}
 /*===============================================*/
 /* 13. TABS & ACCORDION */
 /*===============================================*/	
@@ -1679,6 +1677,9 @@ background-position: 50% 15px;
 background-position: 50% 15px;
 }
 .responsive-icon a{
+background-position: 50% 15px;
+}
+.user-icon a{
 background-position: 50% 15px;
 }
 .vendors-icon a{
