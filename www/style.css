@@ -241,7 +241,7 @@ padding: 0 15px;
 .list-navindex{
 padding:0 0 0 20px;
 margin:5% 0 0 0;
-width:100%;
+width:90%;
 }
 .list-navindex ul{
 width:100%;
@@ -477,9 +477,12 @@ background-position: 50% 35px;
 }
 .user-icon a{
 background:url(images/photos/photo12.jpg);
-background-size: auto 34%;
+background-size: auto 50%;
 background-repeat: no-repeat;
 background-position: 50% 35px;
+-webkit-border-radius:50px;
+-moz-border-radius:50px;
+border-radius:50px;
 }
 .video-icon a{
 background:url(images/icons/white/video.png);
@@ -1447,6 +1450,7 @@ text-align:center;
 color:#ffffff;
 }
 .user_login_info p{
+font-family: 'Source Sans Pro', sans-serif;
 font-size:10px;
 text-align:center;
 padding:0;
