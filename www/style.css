@@ -717,14 +717,14 @@ text-align:center;
 }
 .navbar_home_link a{
 float:left;
-width:25%;
+width:22%;
 padding:5px 0 0 3%;
 }
 .navbar_home_link img{
 max-width:84px;
 }
 .navbar_page_center{
-width:50%;
+width:45%;
 float:left;
 line-height:50px;
 text-align:center;
