@@ -239,8 +239,8 @@ padding: 0 15px;
 }
 /* 4.05 INDEX NAVIGATION */
 .list-navindex{
-padding:0 0 0 40px;
-margin:15% 0 0 0;
+padding:0 0 0 20px;
+margin:5% 0 0 0;
 width:100%;
 }
 .list-navindex ul{
@@ -798,11 +798,11 @@ line-height:10px;
 padding:0 0 0 8px;
 }
 .minimal_intro2{
-font-size:36px;
+font-size:32px;
 color:#FFFFFF;
 font-weight:500;
 line-height:32px;
-padding:40px 0 0 6px;
+padding:32px 0 0 6px;
 }
 .page_subtitle{
 padding:0 0 10px 0;
@@ -1442,6 +1442,7 @@ color:#ffffff;
 .user_login_info p{
 text-align:center;
 padding:0;
+color:#ffffff;
 }
 .user_thumb{
 width:50%;
@@ -1454,6 +1455,14 @@ max-width:100%;
 -moz-border-radius:200px;
 border-radius:200px;
 border:2px #ddd solid;
+}
+.user_icon{
+width:50px;
+margin:auto;
+display:block;
+-webkit-border-radius:50px;
+-moz-border-radius:50px;
+border-radius:50px;
 }
 /*===============================================*/
 /* 13. TABS & ACCORDION */
