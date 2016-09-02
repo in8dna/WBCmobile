@@ -239,7 +239,8 @@ padding: 0 15px;
 }
 /* 4.05 INDEX NAVIGATION */
 .list-navindex{
-padding:60% 0 0 40px;
+padding:0 0 0 40px;
+margin:70%;
 width:100%;
 }
 .list-navindex ul{
@@ -801,7 +802,7 @@ font-size:36px;
 color:#FFFFFF;
 font-weight:500;
 line-height:32px;
-padding:40px 0 30px 6px;
+padding:40px 0 0 6px;
 }
 .page_subtitle{
 padding:0 0 10px 0;
