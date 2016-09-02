@@ -261,7 +261,7 @@ margin:0;
 color:#FFFFFF;
 font-size:15px;
 font-weight:300;
-width:22%;
+width:80%;
 display:inline-block;
 float:left;
 list-style:none;
@@ -694,7 +694,7 @@ height: 60px;
 height: 100px;
 }
 .navbarpages{
-background-color:#2a2929;
+background-color:#333232;
 position: fixed;
 top:0;
 width:100%;
@@ -721,15 +721,15 @@ width:22%;
 padding:5px 0 0 3%;
 }
 .navbar_home_link img{
-max-width:84px;
+max-width:76x;
 }
 .navbar_page_center{
 width:45%;
 float:left;
-line-height:50px;
+line-height:60px;
 text-align:center;
-color:#FFFFFF;
-font-size:0.85em;
+color:#666666;
+font-size:0.9em;
 font-weight:700;
 }
 /* 5.1 FOOTER TOOLBAR */
