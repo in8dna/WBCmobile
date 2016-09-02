@@ -116,13 +116,13 @@ color: #353C37;
 font-family: 'Times New Roman', Times, serif;
 }
 blockquote{
-border-left: 7px #ff9933 solid;
+border-left: 7px #dda446 solid;
 padding:0 0 0 20px;
 margin:10px 0 20px 0;
 }
 blockquote p{
 font-family: 'Times New Roman', Times, serif;
-color:#ff9933;
+color:#dda446;
 font-style: italic;
 font-size:0.85em;
 line-height:1.3em;
@@ -131,7 +131,7 @@ font-weight:300;
 blockquote span{
 display:block;
 font-family: 'Source Sans Pro', sans-serif;
-color:#ff9933;
+color:#dda446;
 font-weight:700;
 font-size:0.8em;
 text-transform:uppercase;
@@ -151,7 +151,7 @@ margin:auto;
 /*===============================================*/	
 a.button_full{
 width:100%;
-background-color:#ff9933; 
+background-color:#dda446; 
 display:inline-block;
 color:#FFFFFF; 
 padding:10px 0;
@@ -160,7 +160,7 @@ text-align:center;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;
 }
 a.button_small{
-background-color:#ff9933; 
+background-color:#dda446; 
 display:inline-block;
 color:#FFFFFF; 
 padding:10px 20px;
@@ -173,14 +173,14 @@ width:100%;
 margin:0;
 padding:10px 0;
 text-align:center;
-background-color:#ff9933;
+background-color:#dda446;
 color:#FFFFFF;
 font-size:20px;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;
 }
 .button {
-border: 1px solid #ff9933;
-color: #ff9933;
+border: 1px solid #dda446;
+color: #dda446;
 text-decoration: none;
 text-align: center;
 display: block;
@@ -207,7 +207,7 @@ font-family: inherit;
 cursor: pointer;
 }
 .button.active {
-background: #ff9933;
+background: #dda446;
 font-weight:700;
 color: #fff;
 }
@@ -241,7 +241,7 @@ padding: 0 15px;
 /*this controls the nav button div location*/
 .list-navindex{
 padding:0 0 0 10px;
-margin:5% 0 0 10px;
+margin:5% 0 0 20px;
 width:100%;
 }
 /*this controls the nav button width*/
@@ -269,7 +269,7 @@ width:100%;
 display:inline-block;
 float:left;
 list-style:none;
-padding:50% 0 0 0;
+padding:50% 0 25% 0;
 margin:3% 0 6% 0;
 height:auto;
 background-color:rgba(70,65,64,0.7);
@@ -721,8 +721,8 @@ text-align:center;
 }
 .navbar_home_link a{
 float:left;
-width:22%;
-padding:5px 0 0 3%;
+width:120px;
+padding:5px 0 0 0;
 }
 .navbar_home_link img{
 max-width:84x;
@@ -731,10 +731,10 @@ max-width:84x;
 width:45%;
 float:left;
 line-height:60px;
-margin-left:-20px;
+margin-left:-14px;
 text-align:left;
 color:#666666;
-font-size:1.0em;
+font-size:1.25em;
 font-weight:700;
 }
 /* 5.1 FOOTER TOOLBAR */
@@ -819,11 +819,11 @@ padding:32px 0 0 6px;
 padding:0 0 10px 0;
 margin:0 0 10px 0;
 display:inline-block;
-color:#ff9933;
+color:#dda446;
 }
 #pages_maincontent{
 font-size:20px;
-color:#ff9933;
+color:#dda446;
 font-weight:400;
 margin:10px 0 15px 0;
 display:inline-block;
@@ -1019,7 +1019,7 @@ padding:10px 0;
 text-align:center;
 position:absolute;
 bottom:20px;
-background-color:#ff9933;
+background-color:#dda446;
 color:#FFFFFF;
 font-size:20px;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;
@@ -1148,7 +1148,7 @@ margin:0 0 20px 0;
 padding:0 30px;
 margin:0 0 0 20px;
 color: #fff;
-background: #ff9933;
+background: #dda446;
 text-align:center;
 }
 .post_title{
@@ -1231,7 +1231,7 @@ width:100%;
 margin:10px 0;
 padding:10px 0;
 text-align:center;
-background-color:#ff9933;
+background-color:#dda446;
 color:#FFFFFF;
 font-size:20px;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;
@@ -1343,7 +1343,7 @@ font-weight:normal;
 text-align:center;
 cursor:pointer; 
 font-size:20px;
-background-color:#ff9933;
+background-color:#dda446;
 color:#FFFFFF;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;
 border: none;
@@ -1388,7 +1388,7 @@ font-weight:normal;
 text-align:center;
 cursor:pointer; 
 font-size:20px;
-background-color:#ff9933;
+background-color:#dda446;
 color:#FFFFFF;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;
 border: none;
@@ -1437,7 +1437,7 @@ font-weight:normal;
 text-align:center;
 cursor:pointer; 
 font-size:20px;
-background-color:#ff9933;
+background-color:#dda446;
 color:#FFFFFF;
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;
 border: none;
@@ -1504,7 +1504,7 @@ font-size: 1.0em;
 letter-spacing: -0.025em;
 line-height: 0.9em;
 font-weight:900;
-color: #ff9933;
+color: #dda446;
 }
 .custom-accordion .icon-plus{
 background:url(images/icons/white/plus.png) no-repeat center; 
