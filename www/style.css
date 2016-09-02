@@ -1433,15 +1433,18 @@ border: none;
 cursor:pointer;
 }
 .user_login_info{
-font-size:22px;
+font-size: 1.1em;
 padding:15px 0 5px 0;
+font-weight:700;
 width:100%;
 text-align:center;
 color:#ffffff;
 }
 .user_login_info p{
+font-size:10px;
 text-align:center;
 padding:0;
+font-weight:300;
 color:#ffffff;
 }
 .user_thumb{
@@ -1457,12 +1460,12 @@ border-radius:200px;
 border:2px #ddd solid;
 }
 .user_icon{
-width:50px;
-margin:auto;
+width:60px;
+margin:0 0 0 0;
 display:block;
--webkit-border-radius:50px;
--moz-border-radius:50px;
-border-radius:50px;
+-webkit-border-radius:60px;
+-moz-border-radius:60px;
+border-radius:60px;
 }
 /*===============================================*/
 /* 13. TABS & ACCORDION */
