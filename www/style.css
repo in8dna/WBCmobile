@@ -477,12 +477,11 @@ background-position: 50% 35px;
 }
 .user-icon a{
 background:url(images/photos/photo12.jpg);
+-webkit-border-radius:50px;-moz-border-radius:50px;border-radius:50px;
 background-size: auto 50%;
 background-repeat: no-repeat;
 background-position: 50% 35px;
--webkit-border-radius:50px;
--moz-border-radius:50px;
-border-radius:50px;
+display:block;
 }
 .video-icon a{
 background:url(images/icons/white/video.png);
