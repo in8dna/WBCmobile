@@ -726,25 +726,11 @@ padding:5px 0 0 0;
 .navbar_home_link img{
 max-width:84x;
 }
-.navbar_back_link a{
-float:left;
-padding:5px 0 0 0;
-}
-.navbar_back_link img{
-max-width:64x;
-}
-.navbar_latest_link a{
-float:left;
-padding:5px 0 0 0;
-}
-.navbar_latest_link img{
-max-width:64x;
-}
 .navbar_page_center{
 width:45%;
 float:left;
 line-height:60px;
-margin-left:-24px;
+margin:-10px 0 0 -27px;
 text-align:left;
 color:#777777;
 font-size:1.0em;
@@ -1161,7 +1147,7 @@ margin:0 0 20px 0;
 padding:0 30px;
 margin:0 0 0 20px;
 color: #fff;
-background: #866a33;
+background: #2a2929;
 text-align:center;
 }
 .post_title{
@@ -1513,7 +1499,7 @@ background:rgba(0,0,0,0.15);
 .custom-accordion .accordion-item-toggle span{
 display:inline-block;
 margin-left:10px;
-font-size: 1.0em;
+font-size: 0.85em;
 letter-spacing: -0.025em;
 line-height: 0.9em;
 font-weight:900;
