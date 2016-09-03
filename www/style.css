@@ -715,7 +715,7 @@ display:block;
 float:right;
 width:25%;
 height:100%;
-margin:18px 0 0 0;
+margin:25px 0 0 0;
 padding:0 0 0 0;
 text-align:center;
 }
@@ -726,11 +726,12 @@ padding:5px 0 0 0;
 .navbar_home_link img{
 max-width:84x;
 }
+/* wellness by choice */
 .navbar_page_center{
 width:45%;
 float:left;
 line-height:60px;
-margin:5px 0 0 -5px;
+margin:-5px 0 0 -10px;
 text-align:left;
 color:#777777;
 font-size:1.0em;
@@ -815,7 +816,7 @@ line-height:32px;
 padding:32px 0 0 6px;
 }
 .page_subtitle{
-font-size: 1.2em;
+font-size: 1.3em;
 letter-spacing: -0.0625em;
 line-height: 0.9em;
 font-weight:900;    
