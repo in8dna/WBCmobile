@@ -815,6 +815,10 @@ line-height:32px;
 padding:32px 0 0 6px;
 }
 .page_subtitle{
+font-size: 1.2em;
+letter-spacing: -0.0625em;
+line-height: 0.9em;
+font-weight:900;    
 padding:0 0 10px 0;
 margin:0 0 10px 0;
 display:inline-block;
